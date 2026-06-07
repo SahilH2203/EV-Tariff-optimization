@@ -184,7 +184,7 @@ Time-based train-validation-test split.
 | Model                 | RMSE   | R²    |
 | --------------------- | ------ | ----- |
 | Naive Lag-24 Baseline | 270.29 | 0.954 |
-| LightGBM              | 54.29  | 0.998 |
+| LightGBM              | 59.12  | 0.979 |
 
 ### Most Important Features
 
